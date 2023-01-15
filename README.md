@@ -1,6 +1,7 @@
 # Component Library and Supabase
 
 Components: https://vuestic.dev/fr
+
 Supabase: https://supabase.com/
 
 # Nuxt 3 Minimal Starter
